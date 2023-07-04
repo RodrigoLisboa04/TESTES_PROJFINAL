@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "MEI Alvará",
+    "description": "Descrição do MEI Alvará",
+    "icon": "icone-alvara.png"
+  },
+  {
+    "id": 2,
+    "name": "MEI Formalização",
+    "description": "Descrição do MEI Formalização",
+    "icon": "icone-formalizacao.png"
+  },
+  {
+    "id": 3,
+    "name": "Empresa Inscrição/Alteração",
+    "description": "Descrição da Empresa Inscrição/Alteração",
+    "icon": "icone-inscricao.png"
+  }
+]

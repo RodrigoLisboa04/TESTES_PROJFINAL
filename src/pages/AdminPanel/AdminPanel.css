@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header {
+    background-color: #2d5299;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.addService {
+    margin-left: 90px;
+
+}
+
+.linha {
+    border-bottom: 2px solid #2B4F94 !important;
+    border-radius: 12px;
+    width: auto;
+}
+
+.serviceTxt {
+    font-size: 0.5rem;
+    display: inline;
+}
+
+.InputService {
+    width: 15rem;
+    height: 2rem;
+    margin-right: 10rem;
+    background-color: #c1c1c1;
+    font-size: 1rem;
+    border-radius: 8px;
+    border-width: 1px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn {
+    background-color: #fff;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    border-width: 1px;
+    border-radius: 20px;
+    border-color: #2d5299;
+    font-size: 1rem;
+    display: inline;
+    width: 100px;
+    height: 40px;
+    background-color: #c1c1c1;
+}
